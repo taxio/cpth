@@ -33,4 +33,6 @@ func main() {
 
 	// print
 	fmt.Println(absPath)
+
+	os.Exit(0)
 }
